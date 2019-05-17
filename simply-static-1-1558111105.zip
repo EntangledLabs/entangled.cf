@@ -1,0 +1,16 @@
+<html><body onload="document.forms[0].submit()">
+<form action="https://ckf03.fjuhsd.org/cgi-bin/blockpage/f.cgi" method="GET">
+<input type="Hidden" name="URL" value="35.236.66.97/wp-admin/admin.php">
+<input type="Hidden" name="CAT" value="Non-Managed">
+<input type="Hidden" name="CATNO" value="-1">
+<input type="Hidden" name="ACC" value="800020835/fjuhsdorg">
+<input type="Hidden" name="WHY" value="Policy=student; NT Group=all students">
+<input type="Hidden" name="MOD" value="2">
+<input type="Hidden" name="IPA" value="10.10.254.114">
+<input type="Hidden" name="RAW" value="http://35.236.66.97/wp-admin/admin.php?simply-static_zip_download=simply-static-1-1558111105.zip">
+<input type="Hidden" name="AUTH0" value="{CK_USERID},Non-Managed">
+<input type="Hidden" name="PGE" value="https://ckf03.fjuhsd.org/cgi-bin/blockpage/f.cgi">
+<input type="Hidden" name="STR" value="null,null,null,null,null">
+<input type="Hidden" name="SRV" value="null">
+<input type="Hidden" name="AUTH1" value="{CK_USERID},35.236.66.97/wp-admin/admin.php?simply-static_zip_download=simply-static-1-1558111105.zip,Non-Managed">
+</form></body></html>
